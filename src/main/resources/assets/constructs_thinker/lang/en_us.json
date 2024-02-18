@@ -1,0 +1,29 @@
+{
+    "itemGroup.constructs_thinker.constructs_thinker": "Constructs' Thinker",
+
+    "material.create.polished_rose_quartz": "Polished Rose Quartz",
+    "material.create.polished_rose_quartz.encyclopedia": "Extremely sharp! Increases attack power",
+    "material.create.precision_mechanism": "Precision Mechanism",
+    "material.create.precision_mechanism.encyclopedia": "Carry-on Backpack! Cool!",
+    "material.constructs_thinker.zinc": "Zinc",
+    "material.constructs_thinker.zinc.encyclopedia": "Unexpectedly lethal against undead creatures",
+    "material.constructs_thinker.brass": "Brass",
+    "material.constructs_thinker.brass.encyclopedia": "First alloy",
+
+    "modifier.create.sharp": "Sharp",
+    "modifier.create.sharp.flavor": "Extremely sharp!",
+    "modifier.create.sharp.description": "Give the target a short-term instant damage effect",
+    "modifier.create.27_bag": "Backpack",
+    "modifier.create.27_bag.flavor": "Precision Mechanism's internal precision components help you assemble this backpack",
+    "modifier.create.27_bag.description": "Right click to open a 27-cell storage space",
+    "modifier.constructs_thinker.undead_killer": "Undead Killer",
+    "modifier.constructs_thinker.undead_killer.flavor": "Why?",
+    "modifier.constructs_thinker.undead_killer.description": "Increased damage to undead creatures",
+    "modifier.constructs_thinker.undead_killer.attack_damage":"damage to undead creatures",
+    "modifier.constructs_thinker.cre": "Cre",
+    "modifier.constructs_thinker.cre.flavor": "Mechanical",
+    "modifier.constructs_thinker.cre.description": "Super strong knockback power",
+    "modifier.constructs_thinker.ate": "Ate",
+    "modifier.constructs_thinker.ate.flavor": "Power",
+    "modifier.constructs_thinker.ate.description": "Add attributes"
+}

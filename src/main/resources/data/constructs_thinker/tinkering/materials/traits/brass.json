@@ -1,0 +1,16 @@
+{
+    "default": [
+      {
+        "name": "constructs_thinker:cre",
+        "level": 1
+      },
+      {
+        "name": "constructs_thinker:ate",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:overworked",
+        "level": 1
+      }
+    ]
+  }

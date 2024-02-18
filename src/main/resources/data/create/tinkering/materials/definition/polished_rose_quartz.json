@@ -1,0 +1,12 @@
+{
+    "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    }
+    ],
+    "craftable": true,
+    "tier": 2,
+    "sortOrder": 0,
+    "hidden": false
+  }

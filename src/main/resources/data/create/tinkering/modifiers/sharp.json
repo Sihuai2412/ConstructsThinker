@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:mob_effect",
+  "effect": "minecraft:instant_damage",
+  "level": {
+    "base": 0,
+    "multiplier": 0.5
+  },
+  "time": {
+    "base": 3,
+    "multiplier_random": 3.5
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "tconstruct:stat_boost",
+    "level_display": "tconstruct:single_level",
+    "stats": [
+      {
+        "stat": "tconstruct:durability",
+        "type": "add",
+        "value": -20
+        },
+      {
+        "stat": "tconstruct:mining_speed",
+        "type": "add",
+        "value": 1.1
+      },
+      {
+        "stat": "tconstruct:harvest_tier",
+        "value": "minecraft:diamond"
+      }
+    ]
+  }

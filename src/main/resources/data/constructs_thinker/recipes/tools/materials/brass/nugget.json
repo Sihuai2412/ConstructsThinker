@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:nuggets/brass"
+  },
+  "value": 1,
+  "needed": 9,
+  "material": "constructs_thinker:brass"
+}

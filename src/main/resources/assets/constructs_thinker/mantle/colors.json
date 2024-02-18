@@ -1,0 +1,19 @@
+{
+    "modifier.create": {
+      "27_bag": "#FCE892",
+      "sharp":  "#E77C56"
+    },
+    "material.create": {
+      "polished_rose_quartz": "#E77C56",
+      "precision_mechanism": "#FCE892"
+    },
+    "modifier.constructs_thinker": {
+      "undead_killer":"#B7E6BF",
+      "cre":"#FCE892",
+      "ate":"#FCE892"
+    },
+    "material.constructs_thinker": {
+      "zinc":"#B7E6BF",
+      "brass":"#FCE892"
+    }
+  }

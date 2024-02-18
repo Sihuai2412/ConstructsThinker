@@ -1,0 +1,29 @@
+{
+    "itemGroup.constructs_thinker.constructs_thinker": "魂匠",
+
+    "material.create.polished_rose_quartz": "磨制玫瑰石英",
+    "material.create.polished_rose_quartz.encyclopedia": "锋利无比！增加攻击力",
+    "material.create.precision_mechanism": "精密构件",
+    "material.create.precision_mechanism.encyclopedia": "随身背包！ 酷！",
+    "material.constructs_thinker.zinc": "锌",
+    "material.constructs_thinker.zinc.encyclopedia": "对亡灵生物的伤害出乎意料的高",
+    "material.constructs_thinker.brass": "黄铜",
+    "material.constructs_thinker.brass.encyclopedia": "第一块合金",
+
+    "modifier.create.sharp": "锋利",
+    "modifier.create.sharp.flavor": "锋利无比！",
+    "modifier.create.sharp.description": "给予目标短时间的瞬间伤害效果",
+    "modifier.create.27_bag": "背包",
+    "modifier.create.27_bag.flavor": "精密构件帮你组装了这个背包",
+    "modifier.create.27_bag.description": "右键打开一个有着27格的储存空间",
+    "modifier.constructs_thinker.undead_killer": "亡灵杀手",
+    "modifier.constructs_thinker.undead_killer.flavor": "为什么？",
+    "modifier.constructs_thinker.undead_killer.description": "提升了亿点点对于亡灵生物的伤害",
+    "modifier.constructs_thinker.undead_killer.attack_damage":"对亡灵生物的伤害",
+    "modifier.constructs_thinker.cre": "Cre",
+    "modifier.constructs_thinker.cre.flavor": "机械——",
+    "modifier.constructs_thinker.cre.description": "超强击退力",
+    "modifier.constructs_thinker.ate": "Ate",
+    "modifier.constructs_thinker.ate.flavor": "动力！",
+    "modifier.constructs_thinker.ate.description": "增加属性"
+}
